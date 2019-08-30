@@ -2,7 +2,7 @@
 
 ### Sistema de gerenciamento de produtos feito em console com várias funcionalidades!
 
-- [x] entrada de novos produtos.
+- [x] Entrada de novos produtos.
 - [x] Listagem.
 - [x] Pesquisar pela descrição.
 - [x] Pesquisar pela primeira letra.

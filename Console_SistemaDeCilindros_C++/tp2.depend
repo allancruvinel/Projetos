@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1567632482 source:c:\users\allan\desktop\allan_git\projetos\console_sistemadecilindros_c++\tp2\main.cpp
+	<iostream>
+	"cilindro.h"
+
+1567632752 c:\users\allan\desktop\allan_git\projetos\console_sistemadecilindros_c++\tp2\cilindro.h
+
+1567632482 source:c:\users\allan\desktop\allan_git\projetos\console_sistemadecilindros_c++\main.cpp
+	<iostream>
+	"cilindro.h"
+
+1567632752 c:\users\allan\desktop\allan_git\projetos\console_sistemadecilindros_c++\cilindro.h
+

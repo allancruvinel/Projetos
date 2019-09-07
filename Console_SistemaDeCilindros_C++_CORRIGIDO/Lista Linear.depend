@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1567173364 source:c:\users\jchiara\desktop\edadosmat\lista linear\main.cpp
+	<iostream>
+	"listalinear.h"
+
+1567173625 c:\users\jchiara\desktop\edadosmat\lista linear\listalinear.h
+
+1567771444 source:c:\users\lab1.fatecrl\desktop\listona\main.cpp
+	<iostream>
+	"listalinear.h"
+	"cilindro.h"
+
+1567771557 c:\users\lab1.fatecrl\desktop\listona\listalinear.h
+
+1567769572 c:\users\lab1.fatecrl\desktop\listona\cilindro.h
+

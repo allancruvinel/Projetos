@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1567882720 source:c:\users\allan\desktop\tp3\tp_pilha\main.cpp
+	<iostream>
+	"expressao.h"
+
+1567777935 c:\users\allan\desktop\tp3\tp_pilha\pilhasequencial.h
+
+1567879839 c:\users\allan\desktop\tp3\tp_pilha\expressao.h
+	<iostream>
+	"pilhasequencial.h"
+

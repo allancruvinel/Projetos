@@ -1,4 +1,4 @@
-# Gerenciamento de Cilindros
+# Gerenciamento de Validação de Expressões usando Pilha.
 
 ### Sistema de Validação de expressões matematicas feito em console!
 

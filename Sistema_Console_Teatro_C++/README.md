@@ -1,4 +1,4 @@
-# Sistema de controle de Assentos C++
+# Sistema de controle de Assentos C++.
 
 ### Sistema de gerenciamento de Assentos feito em console!
 

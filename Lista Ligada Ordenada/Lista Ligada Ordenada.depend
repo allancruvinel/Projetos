@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1572010626 source:c:\users\lab1.fatecrl\desktop\lista ligada ordenada\main.cpp
+	<iostream>
+	"listaordenada.h"
+	<stdlib.h>
+
+1572010615 c:\users\lab1.fatecrl\desktop\lista ligada ordenada\listaordenada.h
+
+1575516427 source:c:\users\allan\desktop\lista ligada ordenada\main.cpp
+	<iostream>
+	"listaordenada.h"
+	<stdlib.h>
+
+1575566002 c:\users\allan\desktop\lista ligada ordenada\listaordenada.h
+

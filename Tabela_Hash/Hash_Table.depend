@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1432900395 source:m:\hash_table\main.cpp
+	<iostream>
+	"hashtable.h"
+
+1432900457 m:\hash_table\hashtable.h
+
+1432896796 source:c:\users\jchiara\desktop\edados\ed_noite\tabela_hash\main.cpp
+	<iostream>
+	"hashtable.h"
+
+1559086763 c:\users\jchiara\desktop\edados\ed_noite\tabela_hash\hashtable.h
+
+1575519865 source:c:\users\allan\desktop\chiarafiles\tabela_hash\main.cpp
+	<iostream>
+	"hashtable.h"
+
+1575566486 c:\users\allan\desktop\chiarafiles\tabela_hash\hashtable.h
+

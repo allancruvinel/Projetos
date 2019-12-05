@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1574991377 source:c:\users\lab1\desktop\aula03_02\arvore binario de busca\main.cpp
+	<iostream>
+	"arvorebinariabusca.h"
+
+1574991604 c:\users\lab1\desktop\aula03_02\arvore binario de busca\arvorebinariabusca.h
+	<iostream>
+
+1575511843 source:c:\users\allan\onedrive - fatec centro paula souza\3 ciclo\estruturas de dados\arvore binario de busca\main.cpp
+	<iostream>
+	"arvorebinariabusca.h"
+
+1575512216 c:\users\allan\onedrive - fatec centro paula souza\3 ciclo\estruturas de dados\arvore binario de busca\arvorebinariabusca.h
+	<iostream>
+
